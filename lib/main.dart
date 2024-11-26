@@ -42,7 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'You have clicked the button $_counter times ++++',
+              'You have clicked the button $_counter times ',
               style: TextStyle(fontSize: 18),
             ),
           ],
